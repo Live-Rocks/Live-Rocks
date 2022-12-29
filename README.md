@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Live-Rocks
 - 👀 I’m interested in web3
-- 🌱 I’m currently learning JS、Solidity
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on something
 - 
 - 📫 How to reach me : 
