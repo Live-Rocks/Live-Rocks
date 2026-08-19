@@ -17,6 +17,7 @@ A reproducible computer-vision project for detecting surface defects on metal co
 * Preserved failed test cases instead of overstating model accuracy
 * Packaged the inference demo with Docker for deployment
 
+👉 Demo: https://coin-aoi.zeabur.app/
 👉 GitHub: https://github.com/Live-Rocks/Coin-AOI
 
 ---
@@ -33,7 +34,6 @@ A private AI companion exploring long-term context retrieval, model routing, asy
 * Progressed retrieval from offline evaluation to Shadow mode and generation canaries
 * Designed timeout and fallback behavior so retrieval failures do not block the main chat flow
 
-👉 Demo: https://coin-aoi.zeabur.app/
 👉 GitHub: https://github.com/Live-Rocks/softplace
 
 ---
