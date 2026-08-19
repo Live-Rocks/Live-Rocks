@@ -15,7 +15,7 @@ A reproducible computer-vision project for detecting surface defects on metal co
 * Built a three-class object-detection dataset for `dent`, `scratch`, and `stain_corrosion`
 * Developed dataset validation, training, and fixed evaluation workflows
 * Preserved failed test cases instead of overstating model accuracy
-* Packaged the inference demo with Docker for deployment
+* Packaged the inference demo with Docker and deployed it as a web service
 
 👉 Demo: https://coin-aoi.zeabur.app/
 
