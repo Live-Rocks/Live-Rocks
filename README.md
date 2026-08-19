@@ -18,6 +18,7 @@ A reproducible computer-vision project for detecting surface defects on metal co
 * Packaged the inference demo with Docker for deployment
 
 👉 Demo: https://coin-aoi.zeabur.app/
+
 👉 GitHub: https://github.com/Live-Rocks/Coin-AOI
 
 ---
@@ -51,6 +52,7 @@ An on-chain fund-flow investigation and case-memory workspace for the Sui ecosys
 * Uses AI as a bounded layer for investigation notes and case handoff
 
 👉 Demo: https://suicaseflow.zeabur.app/
+
 👉 GitHub: https://github.com/Live-Rocks/Sui-Caseflow-2026
 
 ## 🧰 Tech & Tools
