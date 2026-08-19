@@ -1,5 +1,3 @@
-# GitHub Profile README
-
 # Hi, I'm Jhih-Siang Jhan (Mir) | 詹智翔 👋
 
 I build **applied AI systems and AI-assisted applications**, with recent work spanning **computer vision, LLM retrieval, and on-chain investigation**.
