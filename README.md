@@ -6,23 +6,6 @@ My current focus is turning AI experiments into reviewable and usable workflows 
 
 ## 🚀 Featured Projects
 
-### 🪙 Coin-AOI
-
-**Computer Vision / Object Detection**
-
-A reproducible computer-vision project for detecting surface defects on metal coins using Python and YOLO11n.
-
-* Built a three-class object-detection dataset for `dent`, `scratch`, and `stain_corrosion`
-* Developed dataset validation, training, and fixed evaluation workflows
-* Preserved failed test cases instead of overstating model accuracy
-* Packaged the inference demo with Docker and deployed it as a web service
-
-👉 Demo: https://coin-aoi.zeabur.app/
-
-👉 GitHub: https://github.com/Live-Rocks/Coin-AOI
-
----
-
 ### 🌱 SoftPlace
 
 **LLM Application / Retrieval Evaluation**
@@ -54,6 +37,23 @@ An on-chain fund-flow investigation and case-memory workspace for the Sui ecosys
 👉 Demo: https://suicaseflow.zeabur.app/
 
 👉 GitHub: https://github.com/Live-Rocks/Sui-Caseflow-2026
+
+---
+
+### 🪙 Coin-AOI
+
+**Computer Vision / Object Detection**
+
+A reproducible computer-vision project for detecting surface defects on metal coins using Python and YOLO11n.
+
+* Built a three-class object-detection dataset for `dent`, `scratch`, and `stain_corrosion`
+* Developed dataset validation, training, and fixed evaluation workflows
+* Preserved failed test cases instead of overstating model accuracy
+* Packaged the inference demo with Docker and deployed it as a web service
+
+👉 Demo: https://coin-aoi.zeabur.app/
+
+👉 GitHub: https://github.com/Live-Rocks/Coin-AOI
 
 ## 🧰 Tech & Tools
 
